@@ -14,4 +14,3 @@ gsap.to(sections, {
     end: "+=3500",
   }
 });
-
